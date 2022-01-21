@@ -1,0 +1,25 @@
+.container{
+    margin-bottom: 100px;
+}
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.bg-watch{
+    background-image: linear-gradient(#FF9C35,#FFD019);
+}
+.bg-bag{
+    background-image: linear-gradient(#098a14,#64ff35);
+}
+.bg-shoes{
+    background-image: linear-gradient(#4289FF,#3F07F8);
+}
+.categories img{
+    width: 100px;
+}
+.button-buy{
+    background-image: linear-gradient(#FF589B,#FF136F);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
